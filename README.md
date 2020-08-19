@@ -1,6 +1,8 @@
 python-klikbca-parser
 =====================
 
+Fork of [python-klikbca-parser](https://github.com/rickyok/python-klikbca-parser) migrated to Python 3.
+
 Parser untuk ambil balance dan transaksi dari klikbca personal
 
 Cara penggunaan
